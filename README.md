@@ -4,7 +4,7 @@
   -  MPC (secure multi-party computation)
   -  DL (deep learning)
 - 🌱 I’m currently learning in ECNU, Shanghai.
-- 🥰 I’m curious about almost everything. So feel free to contact me if you have any thoughts or ideas.
+- 🥰 Glad to meet new friends and share new ideas.
 - 📫 How to reach me 👉🏻 ccovaltine@qq.com
 
 <!---
