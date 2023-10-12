@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccovaltine
+- 👋 Hi, I’m @azuki
 - 👀 I’m interested in:
   -  PPML (private preserving machine learning)
   -  MPC (secure multi-party computation)
